@@ -1,0 +1,29 @@
+
+Lip
+45
+0
+0
+0
+34
+0
+Small U Hill
+45
+0
+0
+0
+0
+0
+Medium U Hill
+45
+0
+45
+0
+0
+0
+Large U Hill
+45
+0
+45
+0
+45
+0

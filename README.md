@@ -1,7 +1,7 @@
 # CS3500_Code
 Our group assignment code for D3 in CS3500. 
 
-The main python file is called Main.py. 
+The primary python file is called GUI.py. 
 Run this to bring up the gui.
 Enter the speed of your car in M/S and the program will begin running.
 X out of the GUI to end the program.
@@ -15,7 +15,7 @@ X out of the GUI to end the program.
   
   identifier.py -- identifies impediments by reading lines from the sensor text file and writes instructions for the brakes and suspension to the identifer text file.
   
-  main.py -- creates the gui and displays each impediemnt and the cahnge in brakes and suspension.
+  gui.py -- creates the gui and displays each impediemnt and the cahnge in brakes and suspension.
   
   stop.py -- controls a global variable that stops each program in unison.
  
